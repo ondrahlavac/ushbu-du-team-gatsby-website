@@ -1,13 +1,19 @@
 ---
 templateKey: index-page
 title: Ushbu-du team
-image: /img/persian lines_uvod.jpg
+image: /img/persian lines_u1111vod.jpg
 heading: Chceme dát Ushbu na silničce
 subheading: Sports is our way of life
 mainpitch:
   title: What is Ushbu-du team?
-  description: |
-    Semhle doplníme něco z naší prezentace...
+  description: >-
+    Kreativní a sportovní skupina, jejichž jádro tvoří dva ajťáci
+
+    Děláme snad všechny outdoorové sporty – lezení, kajak, skialpy, bajky, OB,…
+    ale nic neumíme pořádně.
+
+    V posledních letech vedle sportu pořádáme outdoorové festivaly (EPO outdoor
+    fest) a točíme outdoorové filmy.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -15,13 +21,15 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/persian lines_u1111vod.jpg
+      text: >-
+        Skialpování v opuštěných Iránských horách. 
+
+        Irán není arabská země a místní obyvatele vás pozitivně překvapí.
+
+        Ve filmu se můžete těšit na super sjezdy, přespávání v bivacích, alkohol
+        ve středisku, holky bez šátků, pejska ve 4000m i  luxusní mobilní
+        latrínu.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
