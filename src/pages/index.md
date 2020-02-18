@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: Ushbu-du team
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+image: /img/persian lines_uvod.jpg
+heading: Chceme dát Ushbu na silničce
 subheading: Sports is our way of life
 mainpitch:
   title: What is Ushbu-du team?
