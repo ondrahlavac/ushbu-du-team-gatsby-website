@@ -1,9 +1,8 @@
 ---
 templateKey: index-page
-title: Ushbu-du team
-image: /img/persian lines_u1111vod.jpg
-heading: Chceme dát Ushbu na silničce
-subheading: Sports is our way of life
+title: Mountains have stories
+image: /img/2019-vosak-iran-hory.jpg
+subheading: We are the storytellers.
 mainpitch:
   title: What is Ushbu-du team?
   description: >-
@@ -14,6 +13,7 @@ mainpitch:
 
     V posledních letech vedle sportu pořádáme outdoorové festivaly (EPO outdoor
     fest) a točíme outdoorové filmy.
+heading: Chceme dát Ushbu na silničce
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
