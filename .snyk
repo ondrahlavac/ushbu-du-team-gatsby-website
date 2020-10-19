@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.14.1
+version: v1.19.0
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -134,3 +134,117 @@ patch:
         patched: '2020-05-01T06:55:05.336Z'
     - gatsby > babel-preset-gatsby > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
         patched: '2020-05-01T06:55:05.336Z'
+    - gatsby > devcert > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby-transformer-remark > sanitize-html > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > @typescript-eslint/parser > @typescript-eslint/typescript-estree > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > @typescript-eslint/parser > @typescript-eslint/experimental-utils > @typescript-eslint/typescript-estree > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > gatsby-cli > gatsby-recipes > concurrently > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > gatsby-cli > gatsby-recipes > contentful-management > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > gatsby-cli > gatsby-recipes > formik > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > gatsby-cli > gatsby-recipes > yup > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-go-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-cpp-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-docker-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-gradle-plugin > @snyk/java-call-graph-builder > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-docker-plugin > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-mvn-plugin > @snyk/java-call-graph-builder > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cli-interface > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-gradle-plugin > @snyk/cli-interface > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-mvn-plugin > @snyk/cli-interface > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-php-plugin > @snyk/cli-interface > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - snyk > snyk-python-plugin > @snyk/cli-interface > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @emotion/styled > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby-remark-relative-images > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - lodash-webpack-plugin > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - netlify-cms-app > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - node-sass > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > css-loader > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > eslint > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > eslint-plugin-flowtype > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > webpack-merge > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby-plugin-netlify-cms > html-webpack-plugin > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby-remark-copy-linked-files > cheerio > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby-remark-images > cheerio > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby-remark-relative-images > cheerio > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby-remark-relative-images > deep-map > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - node-sass > sass-graph > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > eslint > inquirer > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > eslint > table > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > optimize-css-assets-webpack-plugin > last-call-webpack-plugin > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > react-dev-utils > inquirer > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > webpack-dev-server > http-proxy-middleware > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - netlify-cms-app > netlify-cms-widget-markdown > slate > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - netlify-cms-app > netlify-cms-widget-markdown > slate-react > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - node-sass > gaze > globule > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > gatsby-cli > yurnalist > inquirer > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - gatsby > webpack-dev-server > portfinder > async > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - netlify-cms-app > netlify-cms-core > redux-notifications > react-redux > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - netlify-cms-app > @emotion/styled > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - netlify-cms-app > @emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - netlify-cms-app > netlify-cms-widget-code > react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - netlify-cms-app > netlify-cms-widget-markdown > react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - netlify-cms-app > netlify-cms-widget-relation > react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
+    - netlify-cms-app > netlify-cms-widget-select > react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-10-19T06:55:18.265Z'
