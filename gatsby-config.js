@@ -5,6 +5,14 @@ module.exports = {
       'Website for the Ushbu-du team creative group.',
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {family: `Sarina`, variants: [`400`, `700`]},
+        ],
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {

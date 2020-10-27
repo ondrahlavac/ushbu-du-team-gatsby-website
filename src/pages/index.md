@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Mountains have stories
 image: /img/2019-vosak-iran-hory.jpg
-subheading: We are the storytellers.
+subheading: We are the storytellers
 mainpitch:
   title: What is Ushbu-du team?
   description: >-
