@@ -10,15 +10,7 @@ featuredpost: true
 featuredimage: /img/dji_0070-pano.jpg
 tags: []
 ---
-![chemex]()
-
-
-
-
-
-
-
-
+![chemex](/img/dji_0070-pano.jpg)
 
 Když jsem loni o Vánocích doma oznámila, že pravděpodobně pojedu v zimě do Gruzie na skialpy, naše už to ani nepřekvapilo. Babička klasickým *„JáseztebeposeruBarbořico,“*pochopila, že jediné, co mi může popřát, je: *„Tak šťastnou cestu a vrať se nám v pořádku.“*Vyslyšeno, vráceno. Ale hezky popořádku.
 
