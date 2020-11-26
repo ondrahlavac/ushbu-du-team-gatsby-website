@@ -2,23 +2,20 @@
 templateKey: index-page
 title: Mountains have stories
 image: /img/2019-vosak-iran-hory.jpg
+heading: Chceme dát Ushbu na silničce
 subheading: We are the storytellers
 mainpitch:
   title: What is Ushbu-du team?
   description: >-
     Kreativní a sportovní skupina, jejichž jádro tvoří dva ajťáci
 
-    Děláme snad všechny outdoorové sporty – lezení, kajak, skialpy, bajky, OB,…
-    ale nic neumíme pořádně.
+    Děláme snad všechny outdoorové sporty – lezení, kajak, skialpy, bajky, OB,… ale nic neumíme pořádně.
 
-    V posledních letech vedle sportu pořádáme outdoorové festivaly (EPO outdoor
-    fest) a točíme outdoorové filmy.
-heading: Chceme dát Ushbu na silničce
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    V posledních letech vedle sportu pořádáme outdoorové festivaly (EPO outdoor fest) a točíme outdoorové filmy.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/persian lines_u1111vod.jpg
@@ -27,15 +24,20 @@ intro:
 
         Irán není arabská země a místní obyvatele vás pozitivně překvapí.
 
-        Ve filmu se můžete těšit na super sjezdy, přespávání v bivacích, alkohol
-        ve středisku, holky bez šátků, pejska ve 4000m i  luxusní mobilní
-        latrínu.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Ve filmu se můžete těšit na super sjezdy, přespávání v bivacích, alkohol ve středisku, holky bez šátků, pejska ve 4000m i  luxusní mobilní latrínu.
+    - image: /img/paja_yt_169.png
+      text: >-
+        SVANETI LINES
+
+
+        Ski - párty - road movie
+
+
+        Nově otevřené Gruzinské středisko - sice jezdí půlka střediska, ale prašan padá.
+
+        Pojďte ochutnat mnogo chacha (Gruzinské pálenka) a zažít atmosféru lyžování v místech, kde se tento sport teprve rozvíjí. 
+
+        Film je jedinečným vyprávěním o tom, že freeride a skialpy nejsou pouze super sjezdy, ale také velká zodpovědnost a riziko.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -73,4 +75,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
