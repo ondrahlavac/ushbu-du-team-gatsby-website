@@ -7,11 +7,10 @@ subheading: We are the storytellers
 mainpitch:
   title: What is Ushbu-du team?
   description: >-
-    Kreativní a sportovní skupina, jejichž jádro tvoří dva ajťáci
+    Nic neumíme pořádně, ale děláme snad všechny outdoorové sporty.
 
-    Děláme snad všechny outdoorové sporty – lezení, kajak, skialpy, bajky, OB,… ale nic neumíme pořádně.
 
-    V posledních letech vedle sportu pořádáme outdoorové festivaly (EPO outdoor fest) a točíme outdoorové filmy.
+    Pořádáme outdoorový festival EPO outdoor fest, točíme outdoorové filmy a prostě žijeme v přírodě
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
