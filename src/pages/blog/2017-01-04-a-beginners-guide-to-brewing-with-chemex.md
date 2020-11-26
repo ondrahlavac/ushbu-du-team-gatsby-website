@@ -7,7 +7,7 @@ description: Jsme doma. Všichni. Až na zlomené lyže, ztracené hůlky a ort�
   Gruzii mohl i končit. **V tom prvním řádku je přeci to nejdůležitější, na co
   všechny maminky čekají. Alespoň ta moje.**
 featuredpost: true
-featuredimage: /img/dji_0070-pano.jpg
+featuredimage: /img/paja_yt_169.png
 tags: []
 ---
 ![chemex]()
