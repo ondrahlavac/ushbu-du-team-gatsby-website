@@ -11,17 +11,13 @@ featuredpost: true
 featuredimage: /img/persian lines_u1111vod.jpg
 tags: []
 ---
-
-
 Poslíček mi právě přinesl skibag a skelety. Týden pocené a stále mokré lyžáky smrdí na několik metrů. Stydím se za ně.
 
 Po několika dnech v horách, v zimě, špíně a nepohodlí sedím v hotelu, který je nejluxusnější, jaký jsem kdy navštívil. Taky aby ne - v žádném jiném jsem pravděpodobně nikdy nebydlel.
 
-
+![](/img/dsc04236-2-.jpg)
 
 Irán se pod tlakem zahraničních sankcí propadá do chudoby, jeho měnový kurz rychle devalvuje, a tak si můžeme užívat luxusu. Jako čeští outdooráci jsme zvyklí spát pod skálou nebo na parkáči v autě a tohle je pro nás nový svět.  
-
- 
 
 Ale popořadě…
 
@@ -29,11 +25,7 @@ Na Black-Friday jsem objevil 50% slevu na letenky do Iránu a jelikož jsem na t
 
 Vyrážíme v sestavě: Ondra, Martin, já (Vosák), Mára, Pája, Luky, Karel a Linda, která si hned od začátku stěžuje, že tam bude vypadat jak naše děvuška.
 
- 
-
 Lavinové batohy dělají problém při každé cestě přes letiště. Naše lavinové bombičky se nelíbí ani při cestě do Iránu. Po hodině čekání a vysvětlování, k čemu že ta bombička vlastně je, nás konečně pouští do letadla.
-
-
 
 **„*Hlavně tomu neříkejte bomby, ale tlakové lahve!“***
 
@@ -41,19 +33,11 @@ Lavinové batohy dělají problém při každé cestě přes letiště. Naše la
 
 Půjčujeme si jedenácti-místnou dodávku. Řidičák na ní nikdo nemáme, ale to v této zemi nevadí. Bylo by levnější si jí půjčit s řidičem - to bychom se ovšem ochudili o zážitkové řízení, které se dá přirovnat snad jedině k Indii.
 
- 
-
-          
-
 Projíždíme pouští, hezké počasí se střídá s chumelenicí, občas na dálnici přehlídneme retardér (není značený) a vzlétneme vysoko do vzduchu. První výlet směřuje do pohoří Zagros, které se nachází pod Isfahánem.
 
 „***Plakáty, kde je Amerika a Izrael vyobrazen jako zlo jsou všude kolem nás. Na Facebook se dostanete jen s nelegální aplikací VPN. Ovšem Instagram a Whats-up zde jedou ve velkém.“***
 
 Obědváme poprvé místní jídlo – zkoušíme jehněčí kebab s šafránovou rýží a hrozně sladkým čajem. Po několika hodinách se blížíme do hor a celý natěšení přebalujeme batohy na dvoudenní výlet nahoru do kopců.
-
- 
-
-
 
 Víme, že někde 800 výškových metrů nad námi by měl být bivak. Aklimatizaci nemáme, tak doufáme, že nás nebude příliš bolet hlava. Ve vesnici se k nám přidává toulavá roztomilá fenka. Snažíme se jí odehnat, ale nenechá se a pokračuje s námi dál na kopec.
 
@@ -65,10 +49,6 @@ Večer Mára staví svojí mobilní sněžnou toaletu. Je příjemné se hezky v
 
 Tavíme sníh, chválíme vše péřové, co nás hřeje a po focení hvězdné oblohy jdu spát. Zítra nás čeká dlouhý den.
 
- 
-
- 
-
 Ráno děláme lavinový test a vyrážíme s rozestupy do prudkého traverzu, doufáme, že to bude ok. Kolem čtyřech tisíc metrů mě začíná bolet hlavička, ale pokračuji dále. Těsně pod vrcholem je nutné nandat haršajzny na ledové plotně, ale za chvilku už jsme nahoře na vrcholu.
 
 Počasí se rychle mění – chvíli je mlha, chvíli sluníčko. Selfíčko na vrcholu, rychle přebalit a jedem dolů. Sjezd je opravdu luxusní - 1400m klesání v přemrzlém prašanu s ideálním sklonem kolem 30 stupňů.
@@ -77,11 +57,7 @@ Rychlá sváča u bivaku a jedeme zpět k autu. Spodní část už je kejda a n
 
 Proč jsme stavěli iglú a jak to dopadlo s pejskem? To jsem cíleně zatajil, abyste se těšili na náš film.
 
- 
-
 Dva dny v horách… je potřeba se vyspat, ochutnat místní kuchyni a hlavně zažít, co v Iránu opravdu stojí za to – místní lidé.
-
- 
 
 O památkách vám tady psát nebudu, jsou hezké, barevné, staré, ale kvůli nim jsme do Iránu nepřiletěli.
 
@@ -93,17 +69,9 @@ O Páju se nikdo nezajímá, má tmavé dlouhé vousy a vypadá jako místňák 
 
 Občas si vyzývavě sundávají šátek z vlasů a následně ho rychle, ale elegantně nasazují zpět, aby je mravnostní policie neviděla. Za Martinem například přišly dvě slečny a lámavou angličtinou mu říkají, že je moc hezký a že má krásné oči.
 
- 
-
- 
-
 Následující dny má přijít studená, vlhká fronta, a tak vyrážíme do střediska Dizin. To se nachází asi dvě hodiny severně od Teheránu.
 
- 
-
 ***„V Iránu vyrábí pouze tři typy aut a každé má bílou barvu. Neznají zde kombíky ani zahrádky na střechu, takže když chcete jet lyžovat, musíte v zimě otevřít okýnko a vystrčit lyže ven.„***
-
- 
 
 Martin nám sehnal ubytování u kamarádky. Kamarádka není běžná Iránka jakou byste čekali – má velmi prozápadní myšlení, je učitelka snowbordingu a jógy a s šátkem si také příliš hlavu neláme. Na bytě má evropský záchod, ale stejně musíte házet použitý toaleťák do koše, jinak záchod ucpete a pak tam bude váš výtvor plavat celé odpoledne.
 
@@ -115,13 +83,7 @@ Možnosti freeridu jsou zde nekonečné, do doby dokud vás nechytne místní po
 
 Užili jsme si rochnění v prašanu a už se zase těšíme do divočiny a na pořádnou jebačku do kopce. Naším posledním cílem je hora Ošturán Kúh.
 
- 
-
- 
-
 ***„Řízení v Iránu je absolutní chaos. Červenou na semaforu všichni ignorují, počet pruhů na dálnici se agilně mění, občas potkáte auto v protisměru a po chodníku jezdí všude motorky. Přesto to celé záhadně funguje a lidí jsou k sobě ohleduplní.“***
-
-
 
 Přijíždíme do vesnice, ze které bychom měli vyrážet na kopec. Auto necháváme na dvoře místní rodiny. Jinak to ani nešlo, kdyby nás nepohostila tato rodina, tak nás pozvou domů jejich sousedé.
 
@@ -140,10 +102,6 @@ Je mi zima, hrozně fouká, bolí mě nohy a držím se v zadní části skupin
 Nahoře si užíváme výhledy na nekonečné zasněžené pohoří, jezero v údolí a na hnědou poušť dole pod námi.
 
 Karel s Lukym si ještě střihnou vedlejší hřebínek alpským stylem a zbytek skupiny mezitím práší v luxusním prašanu zpět do bivaku.
-
- 
-
- 
 
 Z Iránu odjíždíme nadšení nejen z krásných hor a dobrodružství v nich, ale primárně díky hodným a usměvavým lidem, kteří vám zůstanou ve vzpomínkách. Obyvatelé nemohou za to, v jaké zemi žijí a jakou mají vládu. Tito lidé nemají s obohacováním uranu a podporou terorismu nic společného, chtějí se jen mít dobře a užívat si života.
 
