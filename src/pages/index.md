@@ -17,7 +17,7 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/persian lines_u1111vod.jpg
+    - image: /img/persian_lines_uvod.jpg
       text: >-
         Skialpování v opuštěných Iránských horách. 
 

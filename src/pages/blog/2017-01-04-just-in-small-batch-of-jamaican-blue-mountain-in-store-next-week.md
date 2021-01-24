@@ -1,16 +1,15 @@
 ---
 templateKey: blog-post
-title: "Lyžování v Iránu? Není tam jen poušť? Sněží tam někdy? Nezastřelí vás?
-  Dva týdny bez alkoholu? "
+title: "Lyžování v Iránu? Není tam jen poušť? Sněží tam někdy? Nezastřelí vás? Dva týdny bez alkoholu? "
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  
-
-  Na to se nás těsně před odletem ptá naše okolí… my zabalili lyže a bomby (lavinové) a vyrazili do Iránu.
+description: Na to se
 featuredpost: true
-featuredimage: /img/persian lines_u1111vod.jpg
-tags: []
+featuredimage: /img/persian_lines_uvod.jpg
+tags:
+  - movies
 ---
+Na to se nás těsně před odletem ptá naše okolí… my zabalili lyže a bomby (lavinové) a vyrazili do Iránu.
+
 Poslíček mi právě přinesl skibag a skelety. Týden pocené a stále mokré lyžáky smrdí na několik metrů. Stydím se za ně.
 
 Po několika dnech v horách, v zimě, špíně a nepohodlí sedím v hotelu, který je nejluxusnější, jaký jsem kdy navštívil. Taky aby ne - v žádném jiném jsem pravděpodobně nikdy nebydlel.

@@ -3,13 +3,15 @@ templateKey: blog-post
 title: Gruzínská realita pohledem skialpinistů...
 date: 2020-11-26T13:16:45.118Z
 description: Jsme doma. Všichni. Až na zlomené lyže, ztracené hůlky a ortézu
-  přes celé koleno jsme zdraví a v pořádku. Tímto by vlastně celý článek o
-  Gruzii mohl i končit. **V tom prvním řádku je přeci to nejdůležitější, na co
-  všechny maminky čekají. Alespoň ta moje.**
 featuredpost: true
 featuredimage: /img/dji_0070-pano.jpg
-tags: []
+tags:
+  - movies
 ---
+přes celé koleno jsme zdraví a v pořádku. Tímto by vlastně celý článek o
+Gruzii mohl i končit. **V tom prvním řádku je přeci to nejdůležitější, na co
+všechny maminky čekají. Alespoň ta moje.**
+
 ![chemex](/img/dji_0070-pano.jpg)
 
 Když jsem loni o Vánocích doma oznámila, že pravděpodobně pojedu v zimě do Gruzie na skialpy, naše už to ani nepřekvapilo. Babička klasickým *„JáseztebeposeruBarbořico,“*pochopila, že jediné, co mi může popřát, je: *„Tak šťastnou cestu a vrať se nám v pořádku.“*Vyslyšeno, vráceno. Ale hezky popořádku.
